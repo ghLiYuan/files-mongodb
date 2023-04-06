@@ -1,0 +1,11 @@
+[2022-07-18T14:04:39.649] [INFO] default - waitting connect....
+[2022-07-18T14:04:39.651] [INFO] default - mongodb://172.30.240.90:27016/portal
+[2022-07-18T14:04:39.691] [INFO] default - =========== gridfs-stream init done ========
+[2022-07-18T14:04:39.740] [INFO] default - {"_id":"0w5d_AipBXc.jpg","filename":"0w5d_AipBXc.jpg","contentType":"image/jpeg","length":12314,"chunkSize":261120,"uploadDate":"2022-07-14T07:14:18.056Z","aliases":null,"metadata":null,"md5":"e2ebd693f3fdba08eaffb29206bb30fd"}
+[2022-07-18T14:04:39.810] [INFO] default - {"_id":"82031f08-2a0a-449b-8872-ab347f28d1b8.gif","filename":"82031f08-2a0a-449b-8872-ab347f28d1b8.gif","contentType":"image/gif","length":374416,"chunkSize":261120,"uploadDate":"2022-07-14T07:14:18.103Z","aliases":null,"metadata":null,"md5":"41898e559574b36ef80c2be8385549ce"}
+[2022-07-18T14:04:39.829] [INFO] default - {"_id":"abc (1).pdf","filename":"abc (1).pdf","contentType":"application/pdf","length":28974,"chunkSize":261120,"uploadDate":"2022-07-14T07:25:18.944Z","aliases":null,"metadata":null,"md5":"aab7fdd8c518a5e31518dfca03d80c05"}
+[2022-07-18T14:04:39.848] [INFO] default - {"_id":"D1svksqWoAENeHL.jpg","filename":"D1svksqWoAENeHL.jpg","contentType":"image/jpeg","length":109007,"chunkSize":261120,"uploadDate":"2022-07-14T07:14:18.118Z","aliases":null,"metadata":null,"md5":"234cd0020e18c5aace55f82642121bfe"}
+[2022-07-18T14:04:40.425] [INFO] default - {"_id":"main_image_star-forming_region_carina_nircam_final-5mb.jpg","filename":"main_image_star-forming_region_carina_nircam_final-5mb.jpg","contentType":"image/jpeg","length":5310371,"chunkSize":261120,"uploadDate":"2022-07-14T07:14:18.652Z","aliases":null,"metadata":null,"md5":"3bae2c6845352e627516a529fd507ffb"}
+[2022-07-18T14:04:40.728] [INFO] default - {"_id":"屏幕截图 2022-07-06 161241.png","filename":"屏幕截图 2022-07-06 161241.png","contentType":"image/png","length":2771001,"chunkSize":261120,"uploadDate":"2022-07-14T07:14:18.956Z","aliases":null,"metadata":null,"md5":"9a73319a9e2983f25c50268e2ad31ea1"}
+[2022-07-18T14:04:40.738] [INFO] default - {"_id":"新建 文本文档.txt","filename":"新建 文本文档.txt","contentType":"text/plain","length":559,"chunkSize":261120,"uploadDate":"2022-07-14T07:25:19.816Z","aliases":null,"metadata":null,"md5":"386c8ee8e8790b3e5305751fe2759238"}
+[2022-07-18T14:04:40.738] [INFO] default - done
